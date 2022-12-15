@@ -426,10 +426,22 @@
   "resolved" "https://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz"
   "version" "7.0.0"
 
+<<<<<<< HEAD
 "kafkajs@2.2.3":
   "integrity" "sha512-JmzIiLHE/TdQ7b4I2B/DNMtfhTh66fmEaEg7gGkyQXBC6f1A7I2jSjeUsVIJfC8d9YcEIURyBjtOEKBO5OHVhg=="
   "resolved" "https://registry.npmjs.org/kafkajs/-/kafkajs-2.2.3.tgz"
   "version" "2.2.3"
+=======
+k6@0.0.0:
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/k6/-/k6-0.0.0.tgz#8c923200be0a68c578e8f5a32be96b1d8065cc3b"
+  integrity sha512-GAQSWayS2+LjbH5bkRi+pMPYyP1JSp7o+4j58ANZ762N/RH/SdlAT3CHHztnn8s/xgg8kYNM24Gd2IPo9b5W+g==
+
+kafkajs@2.2.3:
+  version "2.2.3"
+  resolved "https://registry.yarnpkg.com/kafkajs/-/kafkajs-2.2.3.tgz#a1ab1b7c4a27699871a89b3978b5cfe5b05c6f3e"
+  integrity sha512-JmzIiLHE/TdQ7b4I2B/DNMtfhTh66fmEaEg7gGkyQXBC6f1A7I2jSjeUsVIJfC8d9YcEIURyBjtOEKBO5OHVhg==
+>>>>>>> 849b999b3cf4bdc2e1ae7b14f8f74274d3e8ea16
 
 "knex@0.95.14":
   "integrity" "sha512-j4qLjWySrC/JRRVtOpoR2LcS1yBOsd7Krc6mEukPvmTDX/w11pD52Pq9FYR56/kLXGeAV8jFdWBjsZFi1mscWg=="
